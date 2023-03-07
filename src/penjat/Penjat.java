@@ -4,12 +4,20 @@
  */
 package penjat;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Alberto
  */
 public class Penjat {
     public static void main(String[] args) {
+    
+        Scanner sc = new Scanner (System.in);
+        
+    }
+    
+    static void metdoe1(int i){
         
     }
 }
